@@ -1,0 +1,3 @@
+apiVersion: "v2"
+name: Base infrastructure for my personal k3s homelab
+version: 0.0.1
